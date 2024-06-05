@@ -1,0 +1,22 @@
+<== Belajar Cepat VIM/NEOVIM ==>
+
+# enter to Vim/Nvim [
+    vim ==> enter for "vim",
+    nvim ==> enter for "neovim"
+     ]
+
+# exit from Vim/Nvim [
+    {
+        pres 'esc' button then.
+        ':quit' or ':q'
+        ':q!' for Forced quit without saving,
+        ':wq' quit and save file,
+    }
+
+     ]
+
+# create file Vim/Nvim [
+     write on terminal
+     'nameFile.txt vim/nvim' => enter
+
+     ]
