@@ -1,0 +1,4 @@
+<=== STEP BY STEP INSTALL ARCH LINUX ===>
+
+# enter BIOS on your devices
+#
