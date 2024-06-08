@@ -71,5 +71,18 @@
         </div>
 
     </main>
+
+
+    <script>
+        const dialog = document.getElementById('dialog');
+        const showbtn = document.getElementById('btn-click');
+        const closebtn = document.getElementById('btn-done');
+        showbtn.addEventListener('click', () => {
+            dialog.showModal();
+        });
+        closebtn.addEventListener('click', () => {
+            dialog.close();
+        });
+    </script>
 </body>
 </html>
