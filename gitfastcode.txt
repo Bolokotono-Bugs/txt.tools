@@ -1,0 +1,10 @@
+
+
+
+
+# Git Pull
+
+  - 'git remote -v' for check revository
+  - 'git remote rename origin remote'
+  - 'git remote -v' check again
+  - 'git pull remote main/master'
