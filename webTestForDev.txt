@@ -1,0 +1,6 @@
+This Website For Help You Devlope Your Project
+
+
+# https://dummyjson.com/
+  - There is many dummy or fake data for use, like Articles, User data, and more...
+  - Just type https://dummyjson.com/user => for fake user acc or '/post' => for articles etc..
