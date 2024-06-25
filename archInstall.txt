@@ -1,4 +1,18 @@
 <=== STEP BY STEP INSTALL ARCH LINUX ===>
 
 # enter BIOS on your devices
-#
+# script for zoom the font / opsional, the script
+    "setfont ter-132n"
+# check internet coonection by type "ping google.com"
+# connect to your internet connection by type
+   "iwctl" =>
+   "device list" =>
+   "station wlan0 get-networks" =>
+   "station wlan0 connect 'type your connection name here'" {if your wifi name have a space use string{""}} =>
+   "exit" =>
+   check your coonection again by type "ping googe.com"
+   press "CTRL + C" to kill the command
+
+# type "pacman -Syy" for sycronizer packages
+# formating drive by script
+  "lsblk" the drive list will show,
